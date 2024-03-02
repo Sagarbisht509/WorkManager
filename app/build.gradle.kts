@@ -69,5 +69,5 @@ dependencies {
 
     implementation ("androidx.work:work-runtime-ktx:2.9.0")
     implementation ("androidx.compose.runtime:runtime-livedata:1.6.2")
-    implementation ("io.coil-kt:coil:2.6.0")
+    implementation ("io.coil-kt:coil-compose:2.6.0")
 }
